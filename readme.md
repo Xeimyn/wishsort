@@ -1,5 +1,5 @@
 # wishsort
-web based thingy to sort steam wishlist hopefully
+~~web based thingy to sort steam wishlist hopefully~~ make it a userscript instead
 
 
 log into steam | no need to login  -> steam id should be enough
